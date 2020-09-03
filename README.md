@@ -11,3 +11,12 @@ My ultimate goal is to contribute to the development of systems capable of under
   <a href="https://arxiv.org/a/bansal_s_1.html"> arXiv </a> /
   <a href="https://orcid.org/0000-0003-2636-0066">ORCID</a>
 </p>
+
+<details>
+  <summary>
+    GitHub Stats
+  </summary>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Sid2697&count_private=true&include_all_commits=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Siddhant's GitHub Stats"/>
+  </a>
+</details>
